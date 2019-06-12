@@ -10,5 +10,5 @@
 
 5. 重新启动 Wireshark 点击 tools 
 
-   ![](https://cdn.sinaimg.cn.52ecy.cn/large/005BYqpgly1g3y7dgj57yj30hx037mx3.jpg)
+   ![](<https://ws3.sinaimg.cn/large/005BYqpgly1g3y7dgj57yj30hx037mx3.jpg?referrer=https://cdn.sinaimg.cn.52ecy.cn>)
 
